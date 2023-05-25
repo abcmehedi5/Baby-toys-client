@@ -1,0 +1,99 @@
+[
+    {
+      "_id": "1",
+      "name": "Teddy Bear",
+      "sellerName": "Toy World",
+      "sellerEmail": "info@toyworld.com",
+      "subCategory": "sports car",
+      "price": 19.99,
+      "rating": 4.5,
+      "availableQuantity": 10,
+      "detailDescription": "This cuddly teddy bear is perfect for hugging and snuggling. It's made with soft, high-quality materials and is suitable for children of all ages.",
+      "image": "https://chaldn.com/_mpimage/toy-vehicles?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D120236&q=best&v=1"
+    },
+    {
+      "_id": "2",
+      "name": "LEGO City Police Station",
+      "sellerName": "Brick Empire",
+      "sellerEmail": "sales@brickempire.com",
+      "subCategory": "truck",
+      "price": 49.99,
+      "rating": 4.8,
+      "availableQuantity": 5,
+      "detailDescription": "Build your own LEGO City Police Station and catch the crooks! This set includes police vehicles, minifigures, and a detailed police station building.",
+      "image": "https://chaldn.com/_mpimage/toy-vehicles?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D120236&q=best&v=1"
+    },
+    {
+      "_id": "3",
+      "name": "Barbie Dreamhouse",
+      "sellerName": "Toy Palace",
+      "sellerEmail": "customerservice@toypalace.com",
+      "subCategory": "regular car",
+      "price": 149.99,
+      "rating": 4.7,
+      "availableQuantity": 3,
+      "detailDescription": "Experience the glamorous life with the Barbie Dreamhouse! This deluxe playset features multiple rooms, a working elevator, and interactive accessories for endless fun.",
+      "image": "https://chaldn.com/_mpimage/toy-vehicles?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D120236&q=best&v=1"
+    },
+    {
+      "_id": "4",
+      "name": "Hot Wheels Track Builder",
+      "sellerName": "Speedy Toys",
+      "sellerEmail": "sales@speedytoys.com",
+      "subCategory": "vehicles",
+      "price": 29.99,
+      "rating": 4.6,
+      "availableQuantity": 7,
+      "detailDescription": "Create your own epic Hot Wheels tracks and race against your friends! This Track Builder set includes loops, curves, and launchers for thrilling stunts.",
+      "image": "https://chaldn.com/_mpimage/toy-vehicles?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D120236&q=best&v=1"
+    },
+    {
+      "_id": "5",
+      "name": "Nerf N-Strike Elite Disruptor",
+      "sellerName": "Blast Zone",
+      "sellerEmail": "info@blastzone.com",
+      "subCategory": "Outdoor Toys",
+      "price": 14.99,
+      "rating": 4.4,
+      "availableQuantity": 12,
+      "detailDescription": "Unleash rapid-fire dart blasting with the Nerf N-Strike Elite Disruptor blaster. It features a rotating drum that holds up to 6 darts for intense battles.",
+      "image": "https://chaldn.com/_mpimage/toy-vehicles?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D120236&q=best&v=1"
+    },
+    {
+      "_id": "56",
+      "name": "Paw Patrol Chase Plush Toy",
+      "sellerName": "Pet Pals",
+      "sellerEmail": "customerservice@petpals.com",
+      "subCategory": "vehicles",
+      "price": 9.99,
+      "rating": 4.3,
+      "availableQuantity": 15,
+      "detailDescription": "Unleash rapid-fire dart blasting with the Nerf N-Strike Elite Disruptor blaster. It features a rotating drum that holds up to 6 darts for intense battles.",
+      "image": "https://chaldn.com/_mpimage/toy-vehicles?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D120236&q=best&v=1"
+    },
+    {
+      "_id": "33",
+      "name": "Barbie Dreamhouse",
+      "sellerName": "Toy Palace",
+      "sellerEmail": "customerservice@toypalace.com",
+      "subCategory": "Dolls",
+      "price": 149.99,
+      "rating": 4.7,
+      "availableQuantity": 3,
+      "detailDescription": "Experience the glamorous life with the Barbie Dreamhouse! This deluxe playset features multiple rooms, a working elevator, and interactive accessories for endless fun.",
+      "image": "https://chaldn.com/_mpimage/toy-vehicles?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D120236&q=best&v=1"
+    },
+    {
+      "_id": "46",
+      "name": "Barbie Dreamhouse",
+      "sellerName": "Toy Palace",
+      "sellerEmail": "customerservice@toypalace.com",
+      "subCategory": "Dolls",
+      "price": 149.99,
+      "rating": 4.7,
+      "availableQuantity": 3,
+      "detailDescription": "Experience the glamorous life with the Barbie Dreamhouse! This deluxe playset features multiple rooms, a working elevator, and interactive accessories for endless fun.",
+      "image": "https://chaldn.com/_mpimage/toy-vehicles?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D120236&q=best&v=1"
+    }
+]
+  

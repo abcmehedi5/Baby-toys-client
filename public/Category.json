@@ -1,0 +1,38 @@
+[
+    {
+      "Category_name": "sports car",
+      "_id": "1",
+      "image": "https://www.shutterstock.com/image-photo/yellow-toy-dump-truck-isolated-260nw-148948355.jpg"
+    },
+    {
+      "Category_name": "truck",
+      "_id": "2",
+      "image": "https://assetscdn1.paytm.com/images/catalog/product/K/KI/KIDOH-BABY-BABYOH-B185384E22E0D6B/1588582970138_8.jpg"
+    },
+    {
+      "Category_name": " mini fire truck",
+      "_id": "3",
+      "image": "https://www.shutterstock.com/image-photo/yellow-toy-dump-truck-isolated-260nw-148948355.jpg"
+    },
+    {
+      "Category_name": "mini police car",
+      "_id": "4",
+      "image": "https://assetscdn1.paytm.com/images/catalog/product/K/KI/KIDOH-BABY-BABYOH-B185384E22E0D6B/1588582970138_8.jpg"
+    },
+    {
+      "Category_name": "regular car",
+      "_id": "5",
+      "image": "https://www.shutterstock.com/image-photo/yellow-toy-dump-truck-isolated-260nw-148948355.jpg"
+    },
+    {
+      "Category_name": "Speed car",
+      "_id": "6",
+      "image": "https://assetscdn1.paytm.com/images/catalog/product/K/KI/KIDOH-BABY-BABYOH-B185384E22E0D6B/1588582970138_8.jpg"
+    },
+    {
+      "Category_name": "Danger car",
+      "_id": "7",
+      "image": "https://www.shutterstock.com/image-photo/yellow-toy-dump-truck-isolated-260nw-148948355.jpg"
+    }
+  ]
+  
